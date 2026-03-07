@@ -1,0 +1,57 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python environment files
+*.env
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE folders
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Large datasets
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Model artifacts (optional)
+# Uncomment if models are very large
+# models/*.pkl
+
+# System files
+*.swp
+*.swo
+
+# Build files
+build/
+dist/
+
+# Mac system files
+.AppleDouble
+.LSOverride
