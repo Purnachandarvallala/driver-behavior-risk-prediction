@@ -274,7 +274,7 @@ The dashboard will open in your browser at
 
 
 
-http://localhost:8501
+https://driver-behavior-risk-prediction-xp7dugajuvgyokuzfpx5hw.streamlit.app/
 
 
 
