@@ -242,7 +242,7 @@ Clone the repository
 
 
 
-git clone https://github.com/YOUR\_USERNAME/driver-behavior-risk-prediction.git
+git clone https://github.com/Purnachandarvallala/driver-behavior-risk-prediction
 
 
 
