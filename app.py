@@ -253,4 +253,4 @@ if analyze:
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-st.caption("© 2025 Driver Risk Prediction System")
+st.caption("© 2026 Driver Risk Prediction System")
